@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi! I am Oleg, a beginner Python, C++ developer.<br>I am fond of programming, Anime and Judo.
+### *Hi! I am Oleg, a beginner developer.*
 
 
 # 💻 Tech Stack:
@@ -8,5 +7,3 @@ Hi! I am Oleg, a beginner Python, C++ developer.<br>I am fond of programming, An
 ![](https://github-readme-stats.vercel.app/api?username=Cyb3rR0n1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Cyb3rR0n1n&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rR0n1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
