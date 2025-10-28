@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://www.codewars.com/users/Cyb3rR0n1n/badges/large
+
 <!--
 **Cyb3rR0n1n/Cyb3rR0n1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
