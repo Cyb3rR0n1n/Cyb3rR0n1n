@@ -1,5 +1,16 @@
 <div align="center">
-Hi! I am Oleg, a beginner developer.<br/><br/><br/><br/>
+
+<h1>Hi! I`m Oleg, a beginner developer</h1><br/>
+
+<img src="https://media1.tenor.com/m/qlIi5m1FM88AAAAC/bang.gif" height="400"/><br/><br/>
+
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre><br/><br/>
   
 ![codewars](https://www.codewars.com/users/Cyb3rR0n1n/badges/large)
 
@@ -11,24 +22,3 @@ Hi! I am Oleg, a beginner developer.<br/><br/><br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rR0n1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
-
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
-
-
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-
-
-<div align="center">
-  <img src="https://tenor.com/bYeoz.gif"/>
-</div>
-
-
-<div class="tenor-gif-embed" data-postid="26709005" data-share-method="host" data-aspect-ratio="1.45455" data-width="100%"><a href="https://tenor.com/view/bang-gif-26709005">Bang GIF</a>from <a href="https://tenor.com/search/bang-gifs">Bang GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
