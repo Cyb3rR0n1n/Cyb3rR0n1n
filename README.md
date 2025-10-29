@@ -12,4 +12,4 @@ Hi! I am Oleg, a beginner developer.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rR0n1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-[![codewars](https://www.codewars.com/users/Cyb3rR0n1n/badges/large)  
+[![codewars](https://www.codewars.com/users/Cyb3rR0n1n/badges/large)](https://www.codewars.com/users/Cyb3rR0n1n/badges/large)
