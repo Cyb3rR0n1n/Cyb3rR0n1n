@@ -19,6 +19,12 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Cyb3rR0n1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/><br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Cyb3rR0n1n&theme=dark&hide_border=false)<br/><br/><br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rR0n1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rR0n1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/><br/><br/>
+![.](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cyb3rR0n1n&theme=dark&hide)
 
 </div>
+
+
+
+
+
