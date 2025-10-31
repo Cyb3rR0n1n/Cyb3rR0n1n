@@ -1,9 +1,9 @@
 <div align="center">
+<img src="https://i.pinimg.com/736x/22/21/87/22218783ddddbef7592cfc27a10d38ef.jpg" width="25%" align="right" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&repeat=false&width=435&lines=Hi%2C+I%60m+Oleg%2C+a+beginner+developer!)](https://git.io/typing-svg)
+<br/><br/>
 
-
-<img src="https://media1.tenor.com/m/qlIi5m1FM88AAAAC/bang.gif" height="300"/><br/><br/>
 
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
